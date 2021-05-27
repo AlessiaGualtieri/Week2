@@ -92,11 +92,12 @@ namespace Week2.Programmazione_OOP
         {
             double n;
             bool succ = Double.TryParse(Console.ReadLine(), out n);
-            while (!succ || n < 0 || n > 2021)
+            while (!succ || n < 0 )
             {
                 Console.WriteLine("Errore. Inserire un numero corretto.");
                 succ = Double.TryParse(Console.ReadLine(), out n);
             }
+
             return n;
         }
 
