@@ -1,0 +1,16 @@
+C:\Users\alessia.gualtieri\source\repos\Week2.Programmazione_OOP\Week2.Programmazione_OOP\bin\Debug\net5.0\Week2.Programmazione_OOP.exe
+C:\Users\alessia.gualtieri\source\repos\Week2.Programmazione_OOP\Week2.Programmazione_OOP\bin\Debug\net5.0\Week2.Programmazione_OOP.deps.json
+C:\Users\alessia.gualtieri\source\repos\Week2.Programmazione_OOP\Week2.Programmazione_OOP\bin\Debug\net5.0\Week2.Programmazione_OOP.runtimeconfig.json
+C:\Users\alessia.gualtieri\source\repos\Week2.Programmazione_OOP\Week2.Programmazione_OOP\bin\Debug\net5.0\Week2.Programmazione_OOP.runtimeconfig.dev.json
+C:\Users\alessia.gualtieri\source\repos\Week2.Programmazione_OOP\Week2.Programmazione_OOP\bin\Debug\net5.0\Week2.Programmazione_OOP.dll
+C:\Users\alessia.gualtieri\source\repos\Week2.Programmazione_OOP\Week2.Programmazione_OOP\bin\Debug\net5.0\ref\Week2.Programmazione_OOP.dll
+C:\Users\alessia.gualtieri\source\repos\Week2.Programmazione_OOP\Week2.Programmazione_OOP\bin\Debug\net5.0\Week2.Programmazione_OOP.pdb
+C:\Users\alessia.gualtieri\source\repos\Week2.Programmazione_OOP\Week2.Programmazione_OOP\obj\Debug\net5.0\Week2.Programmazione_OOP.csprojAssemblyReference.cache
+C:\Users\alessia.gualtieri\source\repos\Week2.Programmazione_OOP\Week2.Programmazione_OOP\obj\Debug\net5.0\Week2.Programmazione_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alessia.gualtieri\source\repos\Week2.Programmazione_OOP\Week2.Programmazione_OOP\obj\Debug\net5.0\Week2.Programmazione_OOP.AssemblyInfoInputs.cache
+C:\Users\alessia.gualtieri\source\repos\Week2.Programmazione_OOP\Week2.Programmazione_OOP\obj\Debug\net5.0\Week2.Programmazione_OOP.AssemblyInfo.cs
+C:\Users\alessia.gualtieri\source\repos\Week2.Programmazione_OOP\Week2.Programmazione_OOP\obj\Debug\net5.0\Week2.Programmazione_OOP.csproj.CoreCompileInputs.cache
+C:\Users\alessia.gualtieri\source\repos\Week2.Programmazione_OOP\Week2.Programmazione_OOP\obj\Debug\net5.0\Week2.Programmazione_OOP.dll
+C:\Users\alessia.gualtieri\source\repos\Week2.Programmazione_OOP\Week2.Programmazione_OOP\obj\Debug\net5.0\ref\Week2.Programmazione_OOP.dll
+C:\Users\alessia.gualtieri\source\repos\Week2.Programmazione_OOP\Week2.Programmazione_OOP\obj\Debug\net5.0\Week2.Programmazione_OOP.pdb
+C:\Users\alessia.gualtieri\source\repos\Week2.Programmazione_OOP\Week2.Programmazione_OOP\obj\Debug\net5.0\Week2.Programmazione_OOP.genruntimeconfig.cache
